@@ -1,0 +1,14 @@
+C:\Users\Aluno\source\repos\entrega_1\entrega_1\bin\Debug\net8.0\entrega_1.exe
+C:\Users\Aluno\source\repos\entrega_1\entrega_1\bin\Debug\net8.0\entrega_1.deps.json
+C:\Users\Aluno\source\repos\entrega_1\entrega_1\bin\Debug\net8.0\entrega_1.runtimeconfig.json
+C:\Users\Aluno\source\repos\entrega_1\entrega_1\bin\Debug\net8.0\entrega_1.dll
+C:\Users\Aluno\source\repos\entrega_1\entrega_1\bin\Debug\net8.0\entrega_1.pdb
+C:\Users\Aluno\source\repos\entrega_1\entrega_1\obj\Debug\net8.0\entrega_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\entrega_1\entrega_1\obj\Debug\net8.0\entrega_1.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\entrega_1\entrega_1\obj\Debug\net8.0\entrega_1.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\entrega_1\entrega_1\obj\Debug\net8.0\entrega_1.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\entrega_1\entrega_1\obj\Debug\net8.0\entrega_1.dll
+C:\Users\Aluno\source\repos\entrega_1\entrega_1\obj\Debug\net8.0\refint\entrega_1.dll
+C:\Users\Aluno\source\repos\entrega_1\entrega_1\obj\Debug\net8.0\entrega_1.pdb
+C:\Users\Aluno\source\repos\entrega_1\entrega_1\obj\Debug\net8.0\entrega_1.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\entrega_1\entrega_1\obj\Debug\net8.0\ref\entrega_1.dll
