@@ -1,0 +1,14 @@
+C:\Users\Aluno\source\repos\sistemaGestaoFuncionarios\sistemaGestaoFuncionarios\bin\Debug\net8.0\sistemaGestaoFuncionarios.exe
+C:\Users\Aluno\source\repos\sistemaGestaoFuncionarios\sistemaGestaoFuncionarios\bin\Debug\net8.0\sistemaGestaoFuncionarios.deps.json
+C:\Users\Aluno\source\repos\sistemaGestaoFuncionarios\sistemaGestaoFuncionarios\bin\Debug\net8.0\sistemaGestaoFuncionarios.runtimeconfig.json
+C:\Users\Aluno\source\repos\sistemaGestaoFuncionarios\sistemaGestaoFuncionarios\bin\Debug\net8.0\sistemaGestaoFuncionarios.dll
+C:\Users\Aluno\source\repos\sistemaGestaoFuncionarios\sistemaGestaoFuncionarios\bin\Debug\net8.0\sistemaGestaoFuncionarios.pdb
+C:\Users\Aluno\source\repos\sistemaGestaoFuncionarios\sistemaGestaoFuncionarios\obj\Debug\net8.0\sistemaGestaoFuncionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\sistemaGestaoFuncionarios\sistemaGestaoFuncionarios\obj\Debug\net8.0\sistemaGestaoFuncionarios.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\sistemaGestaoFuncionarios\sistemaGestaoFuncionarios\obj\Debug\net8.0\sistemaGestaoFuncionarios.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\sistemaGestaoFuncionarios\sistemaGestaoFuncionarios\obj\Debug\net8.0\sistemaGestaoFuncionarios.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\sistemaGestaoFuncionarios\sistemaGestaoFuncionarios\obj\Debug\net8.0\sistemaGestaoFuncionarios.dll
+C:\Users\Aluno\source\repos\sistemaGestaoFuncionarios\sistemaGestaoFuncionarios\obj\Debug\net8.0\refint\sistemaGestaoFuncionarios.dll
+C:\Users\Aluno\source\repos\sistemaGestaoFuncionarios\sistemaGestaoFuncionarios\obj\Debug\net8.0\sistemaGestaoFuncionarios.pdb
+C:\Users\Aluno\source\repos\sistemaGestaoFuncionarios\sistemaGestaoFuncionarios\obj\Debug\net8.0\sistemaGestaoFuncionarios.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\sistemaGestaoFuncionarios\sistemaGestaoFuncionarios\obj\Debug\net8.0\ref\sistemaGestaoFuncionarios.dll
